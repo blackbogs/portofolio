@@ -1,0 +1,22 @@
+.navbar {
+  color:rgb(0, 0, 0);
+  backdrop-filter: blur(5px);
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  padding: 1px;
+  background-color: #3f3c3c20;
+}
+
+ul {
+  flex: 1;
+  list-style: none;
+}
+
+ul li {
+ 
+  margin: 10px 20px;
+  font-size: 18px;
+  cursor: pointer;
+}
